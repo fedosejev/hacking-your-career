@@ -71,7 +71,7 @@ Make your Facebook account __private__, _unless_ you're using it to tell your bu
 - [x] Use Google Forms to collect facts and analytics.
 - [x] Use different email addresses for different services to know where people found you, e.g.: `artemij.github@gmail.com`, `artemij.linkedin@gmail.com`, etc. Forward them to your main email address.
 
-## Other social platforms
+## Other social platforms for storytelling
 
 + [Medium](http://medium.com) for high quality blogging.
 + [Quora](http://quora.com) for high quality Q/A.
