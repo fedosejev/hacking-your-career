@@ -7,7 +7,7 @@
 ## Why LinkedIn?
 
 + Learning and practicing web and mobile development is _not_ enough.
-+ You need to know how to tell the world that you have your skills for sale.
++ You need to know how to tell the world that you have your skills for sale - you need to storytell.
 + When you build your LinkedIn profile you need to think how __your customers__ would see your profile.
 + See yourself as a brand.
 + What your customers care about?
@@ -22,7 +22,7 @@ Google your full name - the __top 3__ results should be:
 2. Your LinkedIn.
 3. Your GitHub.
 
-Make your Facebook account __private__, _unless_ you're using it to market your services.
+Make your Facebook account __private__, _unless_ you're using it to tell your business story.
 
 ## Your photo
 
@@ -88,7 +88,7 @@ Make your Facebook account __private__, _unless_ you're using it to market your 
 + [Pebbles of Perception: How a Few Good Choices make All the Difference](http://www.amazon.co.uk/Pebbles-Perception-Good-Choices-Difference/dp/1502458578)
 + [One Plus One Equals Three: A Masterclass in Creative Thinking](http://www.amazon.co.uk/One-Plus-Equals-Three-Masterclass/dp/1447287037)
 + [Zero to One: Notes on Startups, or How to Build the Future](http://www.amazon.co.uk/Zero-One-Notes-Startups-Future/dp/0804139296)
-+ [React.js Essentials](http://www.amazon.co.uk/Books/dp/1783551623/)
++ [Jab, Jab, Jab, Right Hook: How to Tell Your Story in a Noisy Social World](http://www.amazon.co.uk/Jab-Right-Hook-Story-Social/dp/006227306X)
 
 ## Videos
 
