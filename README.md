@@ -50,7 +50,7 @@ Make your Facebook account __private__, _unless_ you're using it to tell your bu
 ## Skills and Endorsements
 
 - [x] Find companies that you want to find you - check what keywords they use and use them on your profile.
-- [x] Use 30 core skills. __Do not__ use skills not from drop down.
+- [x] Use 30 core skills. __Do not__ use skills not from the drop down.
 
 ## Recommendations
 
